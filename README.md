@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @davidbhatt
 - 👀 I’m interested in scientific coding related to climate change, combustion, reneable energy 
-- 🌱 I’m currently learning dwave quantum computing
-- 💞️ I’m looking to collaborate on MD simulation for metal combustion
+- 💞️ I’m looking to collaborate on CFD simulation for metal combustion
 - 📫 How to reach me ...You may reach me at davidbhatt@gmail.com
 
 <!---
