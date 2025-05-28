@@ -3,7 +3,7 @@
 Python, Fortran, Mathematica, C, C++
 OpenMP, OpenMPI, CUDA
 OpenFoam, Fluent, Ansys 
-- 👀 I’m interested in scientific coding related to climate change, combustion, reneable energy 
+- 👀 I’m interested in scientific coding related to climate change, combustion, renewable energy 
 - 💞️ I’m looking to collaborate on CFD simulation for metal combustion
 - 📫 How to reach me ...You may reach me at davidbhatt@gmail.com
 <!---
